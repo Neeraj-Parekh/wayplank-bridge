@@ -1,0 +1,1 @@
+{"description": "D-Bus feed of running apps for the Wayplank dock (GNOME Shell side)", "name": "Wayplank Bridge", "shell-version": ["45", "46", "47", "48", "49", "50"], "url": "https://github.com/Neeraj-Parekh/wayplank-bridge", "uuid": "wayplank-bridge@local", "version": 1}
