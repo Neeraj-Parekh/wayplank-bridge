@@ -20,6 +20,10 @@ gnome-extensions enable wayplank-bridge@local
 Takes effect on next login (GNOME Shell scans extensions at startup).
 Poll-only v1: the dock polls once a second; no signals yet.
 
+`extension-legacy.js` is the same contract ported to the pre-45 extension
+system (`imports` instead of ES modules) for GNOME 42–44. Installers copy it
+over `extension.js` on those Shells.
+
 ## License
 
 MIT — see LICENSE.
